@@ -17,8 +17,6 @@ The API has 3 controllers, each one related to an endpoint:
 </p>
 
 
-
-
 ## Framework
 - Express
 

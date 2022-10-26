@@ -13,7 +13,7 @@ The API has 3 controllers, each one related to an endpoint:
 3) getTopTenRetweetedTweets: using userId (contained in request's params), this endpoint retrieves user data from Twitter API. User data is filtered with .sort() and .slice() array methods, to return user's top ten retweeted and liked tweets in the response.
 
 <p align="center">
-  <img src="https://github.com/waldyr/Sublime-Installer/blob/master/sublime_text.png?raw=true" alt="image"/>
+  <img src="https://cms-assets.tutsplus.com/cdn-cgi/image/width=562/uploads/users/317/posts/22192/image/streaming-intro-1_1.png" alt="image"/>
 </p>
 
 
